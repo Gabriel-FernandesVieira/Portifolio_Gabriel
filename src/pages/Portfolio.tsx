@@ -77,7 +77,7 @@ const Portfolio: React.FC = () => {
             
             <div className="max-w-2xl mx-auto text-muted-foreground leading-relaxed">
               <p>
-                Com 4 anos de experiência, sou um desenvolvedor de software 
+                Com 6 anos de experiência, sou um desenvolvedor de software 
                 altamente motivado e especializado no ecossistema .NET. Destaco-me 
                 na resolução de problemas complexos, tendo desenvolvido e mantido 
                 funcionalidades-chave para um sistema ERP que impactaram diretamente 
